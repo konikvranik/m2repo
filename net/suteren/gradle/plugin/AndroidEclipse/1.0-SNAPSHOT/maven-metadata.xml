@@ -4,6 +4,9 @@
   <artifactId>AndroidEclipse</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
-    <lastUpdated>20160224111949</lastUpdated>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20160224115046</lastUpdated>
   </versioning>
 </metadata>
